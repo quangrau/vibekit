@@ -1,7 +1,7 @@
 # Risk Domains — Scenario Seed Library
 
-Optional reference. Read this when you need more scenario variety beyond what
-`generate-drill.sh` and `generate-checklist.sh` produce.
+Optional reference. Read this when you need more scenario variety or
+additional checklist items beyond the standard scan.
 
 **Scope**: Web applications only (SPA, SSR, full-stack).
 
