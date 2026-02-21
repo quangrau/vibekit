@@ -1,7 +1,7 @@
 ---
-name: drill-scenario
+name: drill-recovery
 description: >
-  Generate disaster drill scenarios and security checklists for web application projects
+  Disaster recovery drill exercises and security checklists for web application projects
   (SPA, SSR, full-stack web apps). Focused on solo/indie developers using free-tier
   infrastructure (Vercel, Supabase, Cloudflare, Netlify, Railway, etc.). Bridges big-tech
   best practices (NIST, Google SRE DiRT, ISO 22301) to indie scale. Use when the user
@@ -10,7 +10,7 @@ description: >
   web projects. Not for mobile apps, desktop software, CLI tools, or games.
 ---
 
-# Drill Scenario Generator
+# Disaster Recovery Drills
 
 Disaster drill scenarios and security checklists for indie web apps.
 Teaches big-tech resilience principles through indie-scale practice.
